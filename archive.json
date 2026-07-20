@@ -1,0 +1,29 @@
+[
+  {
+    "id": "a1",
+    "title": "Погналость #1",
+    "date": "2026-07-20T12:00:00Z",
+    "duration": "5:40",
+    "coverUrl": "https://img.youtube.com/vi/u-YthEr00Iw/maxresdefault.jpg",
+    "streamUrl": "https://www.youtube.com/watch?v=u-YthEr00Iw",
+    "category": "ENTERTAINMENT"
+  },
+  {
+    "id": "a2",
+    "title": "Новости с артурностью #2",
+    "date": "2026-07-20T15:00:00Z",
+    "duration": "4:48",
+    "coverUrl": "https://img.youtube.com/vi/tmalzHA0ZYU/maxresdefault.jpg",
+    "streamUrl": "https://www.youtube.com/watch?v=tmalzHA0ZYU",
+    "category": "NEWS"
+  },
+  {
+    "id": "a3",
+    "title": "Новости с артурностью #1",
+    "date": "2026-07-20T09:00:00Z",
+    "duration": "4:02",
+    "coverUrl": "https://img.youtube.com/vi/9VkGIIfD8mY/maxresdefault.jpg",
+    "streamUrl": "https://www.youtube.com/watch?v=9VkGIIfD8mY",
+    "category": "NEWS"
+  }
+]
