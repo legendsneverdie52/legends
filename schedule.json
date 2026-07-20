@@ -1,0 +1,92 @@
+[
+  {
+    "id": "1",
+    "startTime": "11:00",
+    "endTime": "11:55",
+    "title": "Доброе утро",
+    "category": "OTHER",
+    "dayOfWeek": 2,
+    "isLive": false
+  },
+  {
+    "id": "2",
+    "startTime": "11:55",
+    "endTime": "14:00",
+    "title": "Музыннность",
+    "category": "ENTERTAINMENT",
+    "dayOfWeek": 2,
+    "isLive": false
+  },
+  {
+    "id": "3",
+    "startTime": "14:00",
+    "endTime": "14:55",
+    "title": "Доброе утро (Повтор)",
+    "category": "OTHER",
+    "dayOfWeek": 2,
+    "isLive": false
+  },
+  {
+    "id": "4",
+    "startTime": "14:55",
+    "endTime": "19:00",
+    "title": "Музыннность",
+    "category": "ENTERTAINMENT",
+    "dayOfWeek": 2,
+    "isLive": false
+  },
+  {
+    "id": "5",
+    "startTime": "19:00",
+    "endTime": "19:05",
+    "title": "Новости",
+    "category": "OTHER",
+    "dayOfWeek": 2,
+    "isLive": false
+  },
+  {
+    "id": "6",
+    "startTime": "19:05",
+    "endTime": "21:00",
+    "title": "Музыннность",
+    "category": "ENTERTAINMENT",
+    "dayOfWeek": 2,
+    "isLive": false
+  },
+  {
+    "id": "7",
+    "startTime": "21:00",
+    "endTime": "21:20",
+    "title": "Спокойной ночи, друны",
+    "category": "MUSIC",
+    "dayOfWeek": 2,
+    "isLive": false
+  },
+  {
+    "id": "8",
+    "startTime": "21:20",
+    "endTime": "23:00",
+    "title": "Музыннность",
+    "category": "ENTERTAINMENT",
+    "dayOfWeek": 2,
+    "isLive": false
+  },
+  {
+    "id": "9",
+    "startTime": "23:00",
+    "endTime": "00:30",
+    "title": "Страшилки",
+    "category": "OTHER",
+    "dayOfWeek": 2,
+    "isLive": false
+  },
+  {
+    "id": "10",
+    "startTime": "00:30",
+    "endTime": "11:00",
+    "title": "Музыннность",
+    "category": "ENTERTAINMENT",
+    "dayOfWeek": 2,
+    "isLive": true
+  }
+]
